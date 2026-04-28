@@ -1,7 +1,4 @@
-
-
 <h1 align="center">Hello, I'm <a href="">Abdulrahman</a> </h1>
-
 
 <p align="center">
   <a href="https://arts.ct.ws">Portfolio</a> -
@@ -11,17 +8,17 @@
   <a href="mailto:sodex.programing@gmail.com">Contact me.</a> 
 </p>
 
+<hr>
 
-
-****
-
-
-
-
-
-| | |
-| :---: | :---: |
-| <img alt="clipart2578920" src="https://github.com/user-attachments/assets/f8b64db6-7301-4fff-a988-02096147eb12" width="200px" /> | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7e7769c2-57b7-46e2-9c72-5fc4fab96f81" />|
-
-
-
+<table align="center" border="0" cellspacing="20" cellpadding="0">
+  <tr>
+    <td align="center">
+      <strong>My Operating System</strong><br><br>
+      <img alt="clipart2578920" src="https://github.com/user-attachments/assets/f8b64db6-7301-4fff-a988-02096147eb12" width="200px" />
+    </td>
+    <td align="center">
+      <strong>My Languages</strong><br><br>
+      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7e7769c2-57b7-46e2-9c72-5fc4fab96f81" />
+    </td>
+  </tr>
+</table>
