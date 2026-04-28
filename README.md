@@ -2,4 +2,4 @@
  i use parrot btw
 
 
-<img width="200" height="275" alt="image" src="https://github.com/user-attachments/assets/bcc46a84-5a0f-4a32-9ed5-0cb1c856bb6b" />
+<img width="150" height="206" alt="image" src="https://github.com/user-attachments/assets/e7bc91ac-3afd-41e2-923e-172e1bb62595" />
