@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm <a href="">Abdulrahman</a> </h1>
 
 <p align="center">
-  <a href="https://arts.ct.ws">Portfolio</a> -
+  <a href="https://arts.xo.je">Portfolio</a> -
   <a href="https://x.com/Abdulabu_">Twitter</a> -
   <a href="https://abdulabu.pages.dev">Website</a> -
-  <a href="https://projectss.pages.dev">Projects</a> -
+  <a href="https://v1.my-board.org">Projects</a> -
   <a href="mailto:sodex.programing@gmail.com">Contact me.</a> 
 </p>
 
